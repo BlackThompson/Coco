@@ -1,0 +1,65 @@
+.avatar-container.svelte-1e1jlin:not(.thumbnail-item) {
+  background-color: transparent !important; /* 移除灰色背景 */
+  box-shadow: none !important; /* 移除阴影效果 */
+  border: none !important; /* 移除边框 */
+}
+
+.avatar-container.svelte-1e1jlin:not(.thumbnail-item) img {
+  object-fit: cover !important; /* 确保图片裁剪为填充效果 */
+  border-radius: 50%; /* 保持圆形头像 */
+  padding: 0 !important; /* 去掉多余的内边距 */
+}
+
+.md.chatbot.prose {
+  font-size: 18px !important; /* 修改字体大小为18px */
+}
+
+.scroll-hide {
+  font-size: 18px !important;
+}
+
+.wrap.svelte-1k4wjf2.svelte-1k4wjf2.svelte-1k4wjf2 {
+  display: block !important;
+  margin-bottom: 10px !important; /* 调整间距 */
+}
+.wrap.svelte-1kzox3m {
+  display: block !important;
+  margin-bottom: 10px !important; /* 调整间距 */
+}
+
+label.svelte-1k4wjf2.svelte-1k4wjf2.svelte-1k4wjf2 {
+  border: none;
+}
+
+label.svelte-1mhtq7j.svelte-1mhtq7j.svelte-1mhtq7j {
+  border: none;
+}
+
+.lg.secondary.svelte-cmf5ev {
+  width: 20%; /* Reduce the button size to 20% of the row */
+  height: 40px; /* Adjust the height */
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 20px;
+  margin: 10px auto; /* Center it */
+  display: block;
+  background-color: #ffccff; /* Playful pastel background */
+  border: none;
+  color: #ff69b4; /* Cute pink text */
+  font-family: "Comic Sans MS", cursive, sans-serif; /* Playful font */
+  font-weight: bold;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Add a small shadow for depth */
+}
+
+/* Add a hover effect for interactivity */
+.lg.secondary.svelte-cmf5ev:hover {
+  background-color: #ffb6c1; /* Change background on hover */
+  color: #ffffff; /* White text on hover */
+  transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
+/* Adjust text alignment if necessary */
+.lg.secondary.svelte-cmf5ev span {
+  display: inline-block;
+  vertical-align: middle;
+}

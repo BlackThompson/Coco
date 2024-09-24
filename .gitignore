@@ -1,0 +1,17 @@
+# folders
+# folder_name/*
+# !folder_name/.gitkeep
+__pycache__/
+flagged/
+tests/
+
+temp/*
+!temp/.gitkeep
+cocktail_images/*
+!cocktail_images/.gitkeep
+user_json/*
+!user_json/.gitkeep
+
+# files
+.env
+*.txt

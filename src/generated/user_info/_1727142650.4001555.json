@@ -1,0 +1,18 @@
+{
+    "timestamp": "2024-09-24 03:50:50",
+    "user_name": "",
+    "user_preferences": {
+        "user_name": "",
+        "drink_strength": [],
+        "taste_preferences": [],
+        "base_spirits": [],
+        "allergies": []
+    },
+    "generated_cocktail": {
+        "name": "鸭溪风情 (Dakota's Delight)",
+        "recipe": "- 白朗姆酒 - 40 mL\n- 菠萝汁 - 60 mL\n- 椰汁 - 30 mL\n- 蓝橙利口酒 - 15 mL\n- 青柠片\n- 冰块",
+        "preparation_steps": "1. 在一个摇壶中加入冰块。\n2. 加入白朗姆酒 40 mL、菠萝汁 60 mL、椰汁 30 mL和蓝橙利口酒 15 mL。\n3. 充分摇晃，直到摇壶外壁起霜。\n4. 使用滤网将混合物倒入装有冰块的HighBall杯中。\n5. 用青柠片装饰杯口。\n6. 轻轻搅拌后即可享用。",
+        "reason": "鸭溪风情是一款充满热带风情的鸡尾酒，采用白朗姆酒作为基酒，带来轻松愉快的气息。菠萝和椰汁的组合不仅为这款酒增加了层次感的甜味，同时也让人联想到悠闲的海滩度假。蓝橙利口酒带来一丝清新的差异，使整体口感更加复杂和有趣。希望这款酒能为你带来一丝放松的感觉，并让你在忙碌中找到一些片刻的宁静和享受。",
+        "image": "../generated/cocktail_images\\1727142649.736518.png"
+    }
+}
